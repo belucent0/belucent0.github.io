@@ -34,4 +34,3 @@ Ethical, privacy, safety, measurement, or validity concerns.
 ## Next Steps
 
 The smallest useful next action: a paper to read, a dataset to inspect, a prototype to build, or a professor/lab to investigate.
-

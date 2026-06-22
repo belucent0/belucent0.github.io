@@ -38,4 +38,3 @@ How this connects to my interests in healthcare, mental health technology, human
 ## Follow-up Questions
 
 What I want to read, test, or implement next.
-

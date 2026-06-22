@@ -21,4 +21,3 @@ Suggested categories:
 - `project-logs`: implementation notes tied to a concrete project.
 - `reading-notes`: paper or book chapter notes.
 - `research-notes`: early research questions, hypotheses, and reflections.
-

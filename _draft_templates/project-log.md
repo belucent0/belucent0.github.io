@@ -34,4 +34,3 @@ What works now, what evidence I have, and what remains incomplete.
 ## Next Steps
 
 What I will improve, evaluate, or write about next.
-

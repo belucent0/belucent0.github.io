@@ -34,4 +34,3 @@ The engineering lesson I would reuse later.
 ## Open Questions
 
 What I still want to investigate or improve.
-
