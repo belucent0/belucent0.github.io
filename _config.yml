@@ -233,6 +233,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - _draft_templates/
   - _pages/about_einstein.md
   - _pages/cv.md
   # Hide al-folio demo pages and sample content until they are replaced.
